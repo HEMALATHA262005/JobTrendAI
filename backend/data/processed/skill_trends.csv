@@ -1,0 +1,58 @@
+skill,job_count,demand_percentage,rank,trend_level
+Communication,118,55.92,1,Very High
+Python,63,29.86,2,High
+Agile,62,29.38,3,High
+Sql,53,25.12,4,High
+Machine Learning,43,20.38,5,High
+Leadership,40,18.96,6,Growing
+Aws,40,18.96,7,Growing
+Azure,35,16.59,8,Growing
+Javascript,29,13.74,9,Growing
+Statistics,28,13.27,10,Growing
+Git,25,11.85,11,Growing
+Ci Cd,24,11.37,12,Growing
+Scrum,23,10.9,13,Growing
+Data Analysis,23,10.9,14,Growing
+Excel,21,9.95,15,Moderate
+Docker,21,9.95,16,Moderate
+Algorithms,21,9.95,17,Moderate
+Java,21,9.95,18,Moderate
+Kubernetes,20,9.48,19,Moderate
+Linux,20,9.48,20,Moderate
+React,20,9.48,21,Moderate
+C,17,8.06,22,Moderate
+Problem Solving,15,7.11,23,Moderate
+Angular,14,6.64,24,Moderate
+Data Visualization,14,6.64,25,Moderate
+Mysql,14,6.64,26,Moderate
+Html,12,5.69,27,Moderate
+Css,12,5.69,28,Moderate
+Tableau,12,5.69,29,Moderate
+Tensorflow,11,5.21,30,Moderate
+Typescript,11,5.21,31,Moderate
+Data Structures,10,4.74,32,Emerging
+Github,8,3.79,33,Emerging
+Pandas,8,3.79,34,Emerging
+Redis,8,3.79,35,Emerging
+Mongodb,8,3.79,36,Emerging
+Artificial Intelligence,8,3.79,37,Emerging
+Scikit Learn,7,3.32,38,Emerging
+Terraform,7,3.32,39,Emerging
+Vue,7,3.32,40,Emerging
+Jenkins,7,3.32,41,Emerging
+Google Cloud,7,3.32,42,Emerging
+Pytorch,7,3.32,43,Emerging
+Postgresql,6,2.84,44,Emerging
+Deep Learning,6,2.84,45,Emerging
+Rest Apis,5,2.37,46,Emerging
+Nlp,5,2.37,47,Emerging
+Gitlab,5,2.37,48,Emerging
+Numpy,4,1.9,49,Emerging
+Node Js,3,1.42,50,Emerging
+Power Bi,3,1.42,51,Emerging
+Mlops,3,1.42,52,Emerging
+Cloud Security,2,0.95,53,Emerging
+Cybersecurity,2,0.95,54,Emerging
+Express,1,0.47,55,Emerging
+Opencv,1,0.47,56,Emerging
+Network Security,1,0.47,57,Emerging
